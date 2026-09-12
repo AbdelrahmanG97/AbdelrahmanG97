@@ -43,6 +43,24 @@ I'm a **Frontend Engineer** focused on engineering clean, scalable, and responsi
 ### 📊 GitHub Overview
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=AbdelrahmanG97&show_icons=true&theme=tokyonight&hide_border=true&title_color=60a5fa&icon_color=38bdf8&text_color=e2e8f0&bg_color=0f172a" width="49%" alt="Abdelrahman's GitHub Stats" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AbdelrahmanG97&layout=compact&theme=tokyonight&hide_border=true&title_color=60a5fa&text_color=e2e8f0&bg_color=0f172a" width="45%" alt="Top Languages" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,9&height=180&section=header&text=Abdelrahman%20Gamal&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Developer&descFontSize=20&descColor=a5b4fc&descAlignY=62" width="100%" />
+
+  <a href="https://linkedin.com/in/abdel-rahman97" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="28" />
+  </a>
+  &nbsp;
+  <a href="mailto:abdo.gamal9700@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="28" />
+  </a>
 </div>
+
+<br>
+
+```javascript
+const abdelrahman = {
+    role: "Frontend Developer",
+    coreStack: ["TypeScript", "JavaScript", "Angular"],
+    styling: ["Tailwind CSS", "Bootstrap", "CSS3"],
+    focus: "Crafting fast, accessible, and responsive user interfaces",
+    openFor: ["Freelance Projects", "Frontend Opportunities"]
+};
