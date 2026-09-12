@@ -1,66 +1,22 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090b,100:1e293b&height=180&section=header&text=Abdelrahman%20Gamal&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Engineer&descFontSize=20&descColor=94a3b8&descAlignY=62" width="100%" />
+# Abdelrahman Gamal
+### Frontend Engineer
 
-  <p>
-    <a href="https://linkedin.com/in/abdel-rahman97" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="mailto:abdo.gamal9700@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-  </p>
-</div>
+Building responsive, scalable, and high-performance web applications with a focus on modern JavaScript architectures and clean component patterns.
+
+[LinkedIn](https://linkedin.com/in/abdel-rahman97) • [Email](mailto:abdo.gamal9700@gmail.com)
 
 ---
 
-### 💻 About
+### Core Competencies
 
-I'm a **Frontend Engineer** focused on engineering clean, scalable, and responsive web interfaces. Experienced with modern JavaScript architectures, state management, and modern component systems.
-
-* 🔭 **Core Focus:** Angular, TypeScript, and modern Frontend Architecture
-* 🛠️ **Building:** High-performance responsive web applications
-* 💬 **Ask me about:** JavaScript, UI/UX implementation, component lifecycle
+* **Languages & Core:** JavaScript (ES6+), TypeScript, HTML5, CSS3
+* **Frameworks & UI:** Angular, Responsive Web Design, Tailwind CSS, Bootstrap
+* **Tooling & Architecture:** Git, GitHub, Component Architecture, State Management, REST APIs
 
 ---
 
-### 🛠️ Tech Stack
+### Projects & Engineering Focus
 
-**Languages & Frameworks**  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-**Styling & UI**  
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-
-**Tools & Workflow**  
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-
----
-
-### 📊 GitHub Overview
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,9&height=180&section=header&text=Abdelrahman%20Gamal&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Developer&descFontSize=20&descColor=a5b4fc&descAlignY=62" width="100%" />
-
-  <a href="https://linkedin.com/in/abdel-rahman97" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="28" />
-  </a>
-  &nbsp;
-  <a href="mailto:abdo.gamal9700@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="28" />
-  </a>
-</div>
-
-<br>
-
-```javascript
-const abdelrahman = {
-    role: "Frontend Developer",
-    coreStack: ["TypeScript", "JavaScript", "Angular"],
-    styling: ["Tailwind CSS", "Bootstrap", "CSS3"],
-    focus: "Crafting fast, accessible, and responsive user interfaces",
-    openFor: ["Freelance Projects", "Frontend Opportunities"]
-};
+* **Production-Grade Frontends:** Engineering clean UI logic with reusability and accessibility in mind.
+* **Modern Tooling:** Utilizing modern build workflows, version control, and modular architecture.
+* **Continuous Growth:** Exploring advanced frontend patterns and performance tuning.
